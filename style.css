@@ -1,0 +1,36 @@
+body {
+  background: #0f172a;
+  text-align: center;
+  font-family: Arial;
+  color: white;
+}
+
+h1 span {
+  color: #22c55e;
+}
+
+.card {
+  background: white;
+  color: black;
+  width: 300px;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.yes-button {
+  background: hotpink;
+  color: white;
+}
+
+.no-button {
+  background: lightgray;
+}
